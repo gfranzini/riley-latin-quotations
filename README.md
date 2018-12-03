@@ -4,5 +4,4 @@ A manually-corrected version of the OCR'd **Latin** text of the *Dictionary of L
 
 This is **work-in-progress** citeable as:
 
-<!--
-> Franzini, G. (2018-) *Dictionary of Latin and Greek Quotations, Proverbs, Maxims and Mottos, Classical and Mediaeval. Including Law Terms and Phrases*. Manually-corrected OCR. DOI: ...-->
+Franzini, G. (2018-) *Dictionary of Latin and Greek Quotations, Proverbs, Maxims and Mottos, Classical and Mediaeval. Including Law Terms and Phrases*. Manually-corrected OCR text. [![DOI](https://zenodo.org/badge/159828620.svg)](https://zenodo.org/badge/latestdoi/159828620)
